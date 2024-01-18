@@ -1,5 +1,3 @@
-# FormNodeJS
-
 Este es un mini proyecto de NodeJS para enviar datos por un formulario con estas instrucciomnes:
 - Un Login y que aparezca una página principal donde se visualiza en formato foro los comentarios y opiniones. Por otro lado el sistema te tiene que dejar escribir opiniones que se mostraran en otra página.
 - Página Login → Página visualizar comentarios → Escribir comentarios
